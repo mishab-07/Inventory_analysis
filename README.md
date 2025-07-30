@@ -1,29 +1,24 @@
-# Inventory_analysis
-Power BI dashboard analyzing supplier restock and lead time metrics
-# 📦 Inventory Analysis – Power BI Dashboards
+# 📊 Inventory Analysis – Dashboard Showcase
 
 ## 🔍 Overview
-This repository contains three interactive dashboards focused on inventory strategy: supplier restocking, pricing and warehouse efficiency, and category-wise performance. Built in Power BI with MySQL integrations and dynamic DAX visuals.
+This repository features three Power BI dashboards analyzing supplier restocking behavior, pricing strategy, and warehouse distribution. Each visual offers deep insights into inventory management across categories, countries, and time periods.
 
-## 📊 Dashboard Previews
+## 🖼️ Dashboard Visuals
 
 ### 1. Restocking Analysis
-![Restocking Analysis](Restocking analysis.png)
-Highlights reorder behavior and supplier patterns over time.
+![Restocking Analysis](restocking-analysis.png)  
+Tracks reorder patterns and quantity trends by category. Highlights seasonal restocking behavior across years.
 
 ### 2. Pricing & Warehouse Insights
-![Pricing & Warehouse](Pricing&Warehouse.png)  
-Visualizes inventory valuation and shelf performance across 10 countries and top suppliers.
+![Pricing & Warehouse](pricing-warehouse.png)  
+Analyzes inventory valuation across 10 countries and 50 suppliers. Shows top warehouse shelves and category saturation.
 
-### 3. Supplier Efficiency Dashboard
-![Supplier Analysis](Supplier Analysis.png)  
-Compares supplier lead times and reorder item volume by category.
+### 3. Supplier Efficiency
+![Supplier Analysis](supplier-analysis.png)  
+Evaluates average lead times by supplier. Identifies top performers and reorder item distribution.
 
-## 🛠 Technologies Used
-- Power BI
-- Power Query
-- DAX
+## 🛠 Tools Used
+Power BI | DAX | SQL | MySQL | Power Query
 
 ## 🔗 Portfolio
-Explore all dashboards live at  
-🔗 [mishab_portfolio](https://mishab-07.github.io/mishab_portfolio)
+📎 [Live Portfolio](https://mishab-07.github.io/mishab_portfolio)
