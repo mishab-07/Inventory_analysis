@@ -16,7 +16,7 @@ Highlights reorder behavior and supplier patterns over time.
 Visualizes inventory valuation and shelf performance across 10 countries and top suppliers.
 
 ### 3. Supplier Efficiency Dashboard
-![Supplier Analysis](supplier-analysis.png)  
+![Supplier Analysis](Supplier Analysis.png)  
 Compares supplier lead times and reorder item volume by category.
 
 ## 🛠 Technologies Used
