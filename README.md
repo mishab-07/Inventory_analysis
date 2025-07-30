@@ -8,7 +8,7 @@ This repository contains three interactive dashboards focused on inventory strat
 ## 📊 Dashboard Previews
 
 ### 1. Restocking Analysis
-![Restocking Analysis](restocking-analysis.png) 
+![Restocking Analysis](Restocking analysis.png)
 Highlights reorder behavior and supplier patterns over time.
 
 ### 2. Pricing & Warehouse Insights
