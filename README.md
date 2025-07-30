@@ -8,7 +8,7 @@ This repository contains three interactive dashboards focused on inventory strat
 ## 📊 Dashboard Previews
 
 ### 1. Restocking Analysis
-![Restocking Analysis](Restocking_analysis.png) 
+![Restocking Analysis](Restockinganalysis.png) 
 Highlights reorder behavior and supplier patterns over time.
 
 ### 2. Pricing & Warehouse Insights
@@ -16,7 +16,7 @@ Highlights reorder behavior and supplier patterns over time.
 Visualizes inventory valuation and shelf performance across 10 countries and top suppliers.
 
 ### 3. Supplier Efficiency Dashboard
-![Supplier Analysis](Supplier_Analysis.png)  
+![Supplier Analysis](SupplierAnalysis.png)  
 Compares supplier lead times and reorder item volume by category.
 
 ## 🛠 Technologies Used
